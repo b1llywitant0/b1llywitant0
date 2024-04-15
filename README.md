@@ -1,6 +1,6 @@
 👋 Hi there! My name is Billy Witanto.
 
-💼 I am data analyst based in Jakarta, Indonesia. I am currently working in retail jewelry industry, specifically in digital marketing division.
+💼 I am data analyst based in Jakarta, Indonesia. I am currently working in well-known brands of retail jewelry industry, specifically in digital marketing division.
 
 👨‍🔬 Fun fact! I was a life science researcher for 3.5 years who focused on studying the pathogenesis of Hepatitis B virus. In the emergence of COVID-19 period, I was given the opportunity to work with COVID-19 in Biosafety Lab-3 facility which used astronout-like lab equipment to protect myself from the virus, just like in the zombie movie. 
 
@@ -9,6 +9,8 @@
 ✨ The hardest struggle was to find the most suitable job for me. After a long consideration, I made a realization that the backbone of research is the data. I also realize that I am most fascinated by the brainstorming process in research, not the lab work. Thus, I made the decision to be a data analyst with the quality of a researcher.
 
 🌱 Now, I am interested in solving problems by giving actionable insights, whichever the industry is. Like a new bud, I am still searching for learning opportunity in a lot of domains, especially in data science field. For now, my focus is on how to optimize the funnel conversion to maximize the ROI in digital marketing channels which includes ads platform (Google, Meta, Programmatic), website, SEO, and social media.
+
+🔗 You can contact me through my email: billywitanto@gmail.com or my LinkedIn: https://linkedin.com/billywitanto
 
 <!--
 **b1llywitant0/b1llywitant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
