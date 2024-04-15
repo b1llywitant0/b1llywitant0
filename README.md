@@ -8,7 +8,7 @@
 
 ✨ The hardest struggle was to find the most suitable job for me. After a long consideration, I made a realization that the backbone of research is the data. I also realize that I am most fascinated by the brainstorming process in research, not the lab work. Thus, I made the decision to be a data analyst with the quality of a researcher.
 
-🌱 Now, I am interested in solving problems by giving actionable insights, whichever the industry is. Like a new bud, I am still searching for learning opportunity in a lot of domains, especially in data science field. For now, my focus is on how to optimize the funnel conversion in digital marketing channels: ads, website, SEO, and social media.
+🌱 Now, I am interested in solving problems by giving actionable insights, whichever the industry is. Like a new bud, I am still searching for learning opportunity in a lot of domains, especially in data science field. For now, my focus is on how to optimize the funnel conversion to maximize the ROI in digital marketing channels which includes ads platform (Google, Meta, Programmatic), website, SEO, and social media.
 
 <!--
 **b1llywitant0/b1llywitant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
