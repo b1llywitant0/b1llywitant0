@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I'm Billy Witanto.
+
+💼 I am data analyst based in Jakarta, currently working in retail jewelry industry, specifically in digital marketing dvision.
 
 <!--
 **b1llywitant0/b1llywitant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
