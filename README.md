@@ -10,7 +10,7 @@
 
 🌱 Now, I am interested in solving problems by giving actionable insights, whichever the industry is. Like a new bud, I am still searching for learning opportunity in a lot of domains, especially in data science field. For now, my focus is on how to optimize the funnel conversion to maximize the ROI in digital marketing channels which includes ads platform (Google, Meta, Programmatic), website, SEO, and social media.
 
-🔗 You can contact me through my email: billywitanto@gmail.com or my LinkedIn: https://linkedin.com/billywitanto
+🔗 You can contact me through my email: billywitanto@gmail.com or my LinkedIn: https://linkedin.com/in/billywitanto/
 
 <!--
 **b1llywitant0/b1llywitant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
