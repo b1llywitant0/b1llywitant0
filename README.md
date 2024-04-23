@@ -10,7 +10,7 @@
 
 🌱 Now, I am interested in solving problems by giving actionable insights, whichever the industry is. Like a new bud, I am still searching for learning opportunity in a lot of domains, especially in data science field. For now, my focus is on how to optimize the funnel conversion to maximize the ROI in digital marketing channels which includes ads platform (Google, Meta, Programmatic), website, SEO, and social media.
 
-📖 Click here to access my <a href="https://github.com/b1llywitant0/docs/blob/5fc840122e3f75358af02f40bc63124b36d8c57d/Resume%20-%20Billy%20Witanto.pdf">resume</a><>.
+📖 Click here to access my <a href="https://github.com/b1llywitant0/docs/blob/5fc840122e3f75358af02f40bc63124b36d8c57d/Resume%20-%20Billy%20Witanto.pdf">resume</a>.
 
 🔗 You can contact me through my email: billywitanto@gmail.com or my LinkedIn: https://linkedin.com/in/billywitanto/
 
